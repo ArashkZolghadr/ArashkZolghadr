@@ -8,14 +8,17 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated **Backend Developer** with a focus on building robust and scalable web systems. With experience working at **Foolad Mahan**, I've developed a deep appreciation for clean code and efficient architectures. Currently, I'm exploring the intersection of high-performance backend systems and cybersecurity.
+I am a dedicated **Backend Developer** with a passion for architecting robust, scalable, and high-availability web systems. My professional journey, including my time at **Foolad Mahan**, has centered on transforming complex business requirements into efficient, maintainable code. 
 
-* 🔭 **Experience:** Former Developer at **Foolad Mahan**.
-* 🏗️ **Architectural Focus:** Microservices, Modular Monoliths, and Clean Architecture.
-* 🛡️ **Security:** Passionate about **Cybersecurity** and System Analysis (Security Researcher & Enthusiast).
-* 🦀 **Future Goal:** Mastering **Rust** for high-performance system programming.
-* 🐧 **Environment:** Power user of **Linux** and specialized in **Telegram Bot** development.
+I thrive at the intersection of **High-Performance Computing** and **Cybersecurity**, constantly seeking ways to build systems that are not only fast but inherently secure.
 
+* 🔭 **Experience:** Former Developer at **Foolad Mahan**, focusing on industrial-grade backend solutions.
+* 🎓 **Education:** Pursuing a **Bachelor of Computer Engineering** at **IAU (Islamic Azad University)**.
+* 🏗️ **Architectural Expertise:** Specialist in **Microservices** and **Modular Monoliths**. I strictly adhere to **Clean Architecture** and **DDD (Domain-Driven Design)** to ensure long-term maintainability and business logic clarity.
+* ⚙️ **Data Engineering:** Experienced in designing high-traffic **RESTful APIs** and building complex **ETL (Extract, Transform, Load)** pipelines for seamless data integration and processing.
+* 🛡️ **Security Research:** Active **Cybersecurity Enthusiast** and System Analyst. I integrate security best practices into every stage of the development lifecycle.
+* 🦀 **Future Goal:** Deep-diving into **Rust** to leverage its memory safety and performance for system-level programming.
+* 🐧 **Ecosystem:** A **Linux** power user and automation expert, with extensive experience in developing advanced **Telegram Bots**.
 ---
 
 ### 🛠 Tech Stack
