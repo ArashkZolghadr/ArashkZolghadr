@@ -53,11 +53,11 @@ I am a dedicated **Backend Developer** with a focus on building robust and scala
 ### 📬 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arashk-zolghadr-32899b31a" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/arashk-zolghadr-32899b31a" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:arashkzolghadr993@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:arashkzolghadr993@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/assets/icons/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
