@@ -63,5 +63,5 @@ I am a dedicated **Backend Developer** with a focus on building robust and scala
 
 <p align="center">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJmZzIydXp4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJpxSdxmD9S0/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVuNnd6cHd1aGJpZXVzdGN5aXM4NjJyaWJnamxnbGU2dGt6a2pyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ddwUCGJ3l17U8JHLZr/giphy.gif" width="150">
 </p>
