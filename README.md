@@ -43,6 +43,13 @@ I thrive at the intersection of **High-Performance Computing** and **Cybersecuri
 ![Network+](https://img.shields.io/badge/Network%2B-Certified-blue?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security_Enthusiast-ED1C24?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+#### **Skills**
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Cloud-orange?style=for-the-badge&logo=linux&logoColor=white)
+![ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![WebSockets](https://img.shields.io/badge/Web_Sockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
