@@ -1,60 +1,68 @@
-# 👋 Hi, I'm [Your Name]
-### Junior Backend Developer | Python Enthusiast | Security Explorer
+# 👋 Hi, I'm Arashk Zolghadr
+### Python Backend Developer | System Architecture Enthusiast | Security Researcher
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junior%20Backend%20Developer&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Arashk%20Zolghadr&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXJ3bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a passionate **Junior Backend Developer** with a strong focus on the Python ecosystem. I have experience working at **Foolad Mahan** and I'm dedicated to writing clean, modular, and scalable code. I am constantly learning about system architectures and enjoy solving complex backend challenges.
+I am a dedicated **Backend Developer** with a focus on building robust and scalable web systems. With experience working at **Foolad Mahan**, I've developed a deep appreciation for clean code and efficient architectures. Currently, I'm exploring the intersection of high-performance backend systems and cybersecurity.
 
-- 🌱 Currently diving deeper into **Microservices** and **Modular Design**.
-- 🦀 Learning **Rust** to expand my low-level programming skills.
-- ⚡ Interested in **System Analysis**, **Network+**, and **Cybersecurity**.
-- 🐧 Comfortable working in **Linux** environments.
+* 🔭 **Experience:** Former Developer at **Foolad Mahan**.
+* 🏗️ **Architectural Focus:** Microservices, Modular Monoliths, and Clean Architecture.
+* 🛡️ **Security:** Passionate about **Cybersecurity** and System Analysis (Security Researcher & Enthusiast).
+* 🦀 **Future Goal:** Mastering **Rust** for high-performance system programming.
+* 🐧 **Environment:** Power user of **Linux** and specialized in **Telegram Bot** development.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### **Languages & Frameworks**
+#### **Core Backend & Python**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django Ninja](https://img.shields.io/badge/Django%20Ninja-009688?style=for-the-badge&logo=django)
 
-#### **Databases & Tools**
+#### **Databases & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### **Specializations**
+#### **Specialized & Learning**
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-Certified-blue?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Hacking-red?style=for-the-badge&logo=kalilinux)
+![Security](https://img.shields.io/badge/Security_Enthusiast-ED1C24?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArashkZolghadr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArashkZolghadr&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/<YOUR_LINKEDIN>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://t.me/<YOUR_TELEGRAM>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/ArashkZolghadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ArashkZolghadr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJmZzIydXp4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJpxSdxmD9S0/giphy.gif" width="150">
 </p>
