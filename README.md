@@ -56,7 +56,6 @@ I am a dedicated **Backend Developer** with a focus on building robust and scala
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://t.me/ArashkZolghadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ArashkZolghadr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arashk-zolghadr-32899b31a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
