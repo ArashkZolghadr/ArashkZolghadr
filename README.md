@@ -18,17 +18,10 @@ I work with:
 * Docker
 * Git
 
-I like systems that make sense.
 
 Clean architecture.
 Simple logic.
 No unnecessary noise.
-
-### Projects
-
-**NFC Access Control**
-NFC-based access control system.
-Identity. Permissions. Logs.
 
 **Web Systems**
 APIs, dashboards, admin systems, databases.
