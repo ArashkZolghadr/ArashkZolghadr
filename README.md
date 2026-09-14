@@ -7,10 +7,22 @@
 - Backend Developer
 - Systems & Infrastructure
 
-### Languages and Tools:
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,cs,dotnet,docker,linux,nginx,git,github,bash,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
+</p>
+
+### .NET
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+### Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git" />
 </p>
 
 ---
