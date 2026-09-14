@@ -8,7 +8,7 @@ I figure out why.
 
 Backend developer focused on **Python, Django, APIs, and systems**.
 
-I work with:
+work with:
 
 * Python
 * Django / DRF
@@ -17,6 +17,7 @@ I work with:
 * SQL
 * Docker
 * Git
+* Linux
 
 
 Clean architecture.
