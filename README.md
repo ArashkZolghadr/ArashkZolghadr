@@ -1,18 +1,22 @@
-I started with Linux at the age of sixteen, and I am still in love with this operating system.
+# arashk
 
-I didn't start programming for money or wealth. I became a programmer to build my dreams.
+I started with Linux at sixteen.
+I'm still here.
 
-## My Skills
+I didn't become a programmer for money.
+I just wanted to build things.
+
+## skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,django,flask,cs,dotnet,js,html,css,docker,git,github,postgresql,mysql,sqlite" />
 </p>
 
-## Experience
+## currently
 
-- Self-taught experience in programming, Linux, and web development.
-- Experience with Python, Django, and REST APIs.
-- Currently learning C# and ASP.NET.
+learning.
+building.
+trying to understand how things work.
 
 > "Talk is cheap. Show me the code."
 >
