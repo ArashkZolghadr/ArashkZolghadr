@@ -18,6 +18,8 @@ work with:
 * Docker
 * Git
 * Linux
+* SQL Server
+* Postgresql
 
 
 Clean architecture.
