@@ -38,10 +38,5 @@ Learning deeper.
 Building more.
 Understanding the parts people don't see.
 
-## 📈 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArashkZolghadr&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-No title beyond that.
+> No title beyond that.
